@@ -4,7 +4,7 @@
 
 ---
 
-![Project Overview](Telco_Customer_Churn_image.jpg)
+![Project Overview]( Telco_Customer_Churn_image.jpg)
 
 ## Project Description:
 This project aims to analyze customer churn data to:
